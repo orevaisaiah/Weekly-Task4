@@ -4,18 +4,21 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
+
+}
+.container{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 30px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(235, 221, 221);
     width: 500px;
-    height: auto;
+    height: 650px;
     margin: 0 445px;
 }
 #heading{
-    padding-top: 80px;
+    padding-top: 20px;
     font-size: 30px;
     color: black;
 }
